@@ -1,0 +1,4 @@
+# CHSort
+phonetic taranscription
+core
+   
